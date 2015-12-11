@@ -1,5 +1,7 @@
-Mars is called "The Red Planet"
+Mars is called "The Red Planet".
 
-It is larger than the Earth
+It is larger than the Earth.
 
-There is water on Mars
+There is water on Mars.
+
+There is a natural surface structure that looks like a face on Mars.
